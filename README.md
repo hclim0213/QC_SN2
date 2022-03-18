@@ -7,6 +7,10 @@ Quantum computational study of chloride attack on chloromethane for chemical acc
 This is additional supplementary data in "Quantum computational study of chloride attack on chloromethane for chemical accuracy and quantum noise effects with UCCSD and k-UpCCGSD ansatzes"
 
 # Requirements
+> Python
+<pre><code>3.8.10</code></pre>
+> PyPi
 <pre><code>pip install numpy==1.19.2 tequila-basic==1.6.1 qiskit==0.29.0 qiskit-nature==0.2.1 qiskit-aer==0.8.2 qulacs==0.3.0 pyscf==1.7.6 openfermion==1.0.0</code></pre>
+> Conda
 <pre><code>conda install -c psi4 psi4</code></pre>
 
