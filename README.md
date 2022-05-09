@@ -14,3 +14,5 @@ This is additional supplementary data in "Quantum computational study of chlorid
 > Conda
 <pre><code>conda install -c psi4 psi4</code></pre>
 
+> Citation
+Lim, H., Jeon, HN., Rhee, JK. et al. Quantum computational study of chloride attack on chloromethane for chemical accuracy and quantum noise effects with UCCSD and k-UpCCGSD ansatzes. Sci Rep 12, 7495 (2022). https://doi.org/10.1038/s41598-022-11537-6
